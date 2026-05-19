@@ -1,0 +1,1 @@
+# mini_startup_tecnol-gica-_Grupal-
