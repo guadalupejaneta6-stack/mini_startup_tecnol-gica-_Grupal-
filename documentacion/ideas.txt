@@ -1,1 +1,42 @@
 
+
+
+=== STUDYSYNC - IDEAS CLAVE ===
+
+1. FUNCIONES PRINCIPALES
+
+* Organización personal de tareas y horarios académicos.
+* Coordinación de trabajos grupales entre estudiantes.
+* Registro de usuarios y creación de grupos de estudio.
+* Calendario sincronizado para reuniones y entregas importantes.
+* Recordatorios automáticos antes de clases, tareas o reuniones.
+* Notificaciones visibles desde la pantalla de bloqueo del dispositivo.
+* Indicador de estudiantes conectados o disponibles.
+* Chat grupal para comunicación académica.
+* Espacio para compartir documentos y materiales de estudio.
+* Seguimiento de actividades pendientes y completadas.
+
+---
+
+2. VENTAJAS
+
+* Mejora la organización académica personal y grupal.
+* Reduce el olvido de tareas, reuniones y clases importantes.
+* Facilita la comunicación entre estudiantes.
+* Ayuda a administrar mejor el tiempo de estudio.
+* Centraliza herramientas académicas en una sola plataforma.
+* Permite mantener seguimiento de tareas y progreso académico.
+* Disponible en versión web y aplicación móvil.
+
+---
+
+3. POSIBLES MEJORAS FUTURAS
+
+* Integración con plataformas educativas como Moodle o Canvas.
+* Implementación de inteligencia artificial para recomendar horarios de estudio y reuniones grupales.
+* Sistema inteligente para detectar tareas atrasadas o pendientes.
+* Análisis de productividad académica.
+* Asistente virtual para responder preguntas frecuentes.
+* Videollamadas grupales integradas dentro de la plataforma.
+* Sincronización avanzada con calendarios académicos.
+
