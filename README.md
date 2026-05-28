@@ -2,6 +2,7 @@
 
 ## Plataforma para Organizar horarios, tareas  trabajos e grupos 
 
+![imagen alt](https://github.com/guadalupejaneta6-stack/mini_startup_tecnol-gica-_Grupal-/blob/b5a0fdcdf3c9bf0bc0b07b34d30a85aef5d376ed/imagenes/Logo.jpeg)
 ---
 # Descripcion del proyecto 
 
