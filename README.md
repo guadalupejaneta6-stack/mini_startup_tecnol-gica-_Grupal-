@@ -1,1 +1,6 @@
-# mini_startup_tecnol-gica-_Grupal-
+# StudySync 
+
+
+
+StudySync
+Plataforma para organizar horarios, tareas y trabajos en grupo
