@@ -1,42 +1,40 @@
+# STUDYSYNC - Ideas Claves 
 
-
-
-=== STUDYSYNC - IDEAS CLAVE ===
-
-1. FUNCIONES PRINCIPALES
+## 1. Funciones Principales 
 
 * Organización personal de tareas y horarios académicos.
 * Coordinación de trabajos grupales entre estudiantes.
-* Registro de usuarios y creación de grupos de estudio.
-* Calendario sincronizado para reuniones y entregas importantes.
-* Recordatorios automáticos antes de clases, tareas o reuniones.
+* Registro de usuarios y creación de grupos de estudio por medio del correo personal o Estudiantil.
 * Notificaciones visibles desde la pantalla de bloqueo del dispositivo.
 * Indicador de estudiantes conectados o disponibles.
-* Chat grupal para comunicación académica.
-* Espacio para compartir documentos y materiales de estudio.
-* Seguimiento de actividades pendientes y completadas.
+* Chat grupal para comunicación académica. 
+* Espacio para compartir documentos y materiales de estudio. 
+* Seguimiento de actividades pendientes y completas.
 
----
+----
 
-2. VENTAJAS
+## 2. VENTAJAS 
 
-* Mejora la organización académica personal y grupal.
+* Mejora la organización académica personal y grupal 
 * Reduce el olvido de tareas, reuniones y clases importantes.
-* Facilita la comunicación entre estudiantes.
+* Facilita la comunicación entre estudiantes. 
 * Ayuda a administrar mejor el tiempo de estudio.
-* Centraliza herramientas académicas en una sola plataforma.
-* Permite mantener seguimiento de tareas y progreso académico.
+* Centraliza herramientas académicas en una solo plataforma. 
+* Permite mantener seguimiento de tareas y proceso académico. 
 * Disponible en versión web y aplicación móvil.
+* Análisis de productividad académica
 
----
+----
 
-3. POSIBLES MEJORAS FUTURAS
+## 3. POSIBLES MEJORAS FUTURAS 
 
-* Integración con plataformas educativas como Moodle o Canvas.
-* Implementación de inteligencia artificial para recomendar horarios de estudio y reuniones grupales.
-* Sistema inteligente para detectar tareas atrasadas o pendientes.
-* Análisis de productividad académica.
-* Asistente virtual para responder preguntas frecuentes.
-* Videollamadas grupales integradas dentro de la plataforma.
+* Integración con plataformas educativas como Moodle o Canva.
+* Implementación de Inteligencia artificial para recomendar horarios de estudio y reuniones grupales 
+* Sistema inteligente para detectar tareas atrasadas o pendientes en su totalidad. 
+* Herramientas de bienestar estudiantil para ayudar a reducir el estrés académico. 
+* Recomendaciones de respiración, relajamiento y sonidos ambientales. 
+*Videollamadas grupales integradas dentro de la plataforma.
 * Sincronización avanzada con calendarios académicos.
+
+
 
